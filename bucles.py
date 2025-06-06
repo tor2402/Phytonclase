@@ -8,3 +8,4 @@ for dato in datos:
     except (ValueError, TypeError):
         print(f"Error al convertir: {dato}")
 
+print("esta es una nueva version")
